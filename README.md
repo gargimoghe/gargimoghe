@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gargimoghe
-- 👀 I’m interested in law but possibly considering computer science
-- 🌱 I’m currently learning about Javascript
-- 💞️ I’m looking to collaborate on various projects that will help me expand me knowledge on this subject
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning about JavaScript
+- 💞️ I’m looking to collaborate on various projects that will help me expand my knowledge on this subject
 - 📫 How to reach me ... I don't think you need to
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I sprained my wrist hugging someone!
